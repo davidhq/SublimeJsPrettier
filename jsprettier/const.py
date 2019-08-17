@@ -120,6 +120,7 @@ AUTO_FORMAT_FILE_EXTENSIONS = [
     'less',
     'md',
     'vue',
+    'svelte',
     'yml',
     'mjs',
     'mdx'
